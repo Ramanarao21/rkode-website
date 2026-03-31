@@ -151,6 +151,24 @@ API services are located in `src/services/`:
 ## Styling
 
 The project uses Tailwind CSS 4.2.2 with the Vite plugin for styling. Custom styles can be added to `src/index.css`.
+## Performance
+
+The Rkode Labs website delivers exceptional performance with perfect scores across all key metrics. Our optimized architecture ensures fast load times, excellent accessibility, and superior user experience on all devices.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c160cc2d-7a92-4a87-878d-8a0cfbc5b900" />
+
+**Lighthouse Scores:**
+- 🟢 Performance: 100/100
+- 🟢 Accessibility: 95/100
+- 🟢 Best Practices: 100/100
+- 🟢 SEO: 92/100
+
+### Key Metrics
+- **First Contentful Paint**: 0.6s
+- **Largest Contentful Paint**: 0.6s
+- **Total Blocking Time**: 0ms
+- **Cumulative Layout Shift**: 0
+- **Speed Index**: Fast loading across all pages
 
 ## Browser Support
 
